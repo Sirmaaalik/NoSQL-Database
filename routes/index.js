@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 const router = require('express').Router();
 const apiRoutes = require('./api');
 //const validator = require('validator');
@@ -16,49 +9,3 @@ router.use((req, res) => {
 });
 
 module.exports = router;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
